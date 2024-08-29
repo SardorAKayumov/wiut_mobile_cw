@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">MAD_CW_00011193</string>
+    <string name="products_tab_title">Products List</string>
+    <string name="settings_tab_title">Settings</string>
+
+    <string name="detailed_view_price_label">Price: %s sum </string>
+    <string name="add_new_save_button_text">Save</string>
+    <string name="add_new_name_input_hint">Name</string>
+    <string name="add_new_description_input_hint">Description</string>
+    <string name="add_new_name_price_hint">Price</string>
+    <string name="add_new_validation_msg">All fields are compulsory and price must be digits only</string>
+    <string name="add_new_saved_successfully_msg">Saved successfully</string>
+    <string name="add_new_failed_to_save_msg">Failed to save</string>
+    <string name="add_new_in_progress_mgs">In progress</string>
+
+    <string name="list_add_new_text">Add new</string>
+
+    <string name="navigation_products_title">Products</string>
+    <string name="navigation_settings_title">Settings</string>
+    <string name="new_icon_desc">New</string>
+
+    <string name="change_color_button_text">Change Button Color</string>
+    <string name="products_list_text">Products List</string>
+
+</resources>
